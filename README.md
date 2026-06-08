@@ -15,3 +15,4 @@ Then I got inspired by peppermint because it tastes cool in your mouth. This is 
 I designed the fan in Autodesk Fusion 360 and finished the CAD model. After that, I realized I forgot to make room for the actual electronics, so I had to find the dimensions of every component and redesign a large part of the model.
 
 CAD
+https://mail.google.com/mail/u/3?ui=2&ik=f9608ddbda&attid=0.1&permmsgid=msg-a:r2007790493446968529&th=19ea880eb51b5efd&view=fimg&fur=ip&permmsgid=msg-a:r2007790493446968529&sz=s0-l75-ft&attbid=ANGjdJ9ZcHc556M0rHDcULaPuoD1qtCVI6kNxgPfWlCUELd1d8L8fsw6lw-hM6cgBxDxV2iGEM-udwNhRQLuPaivIdHSNlgGTMYQQAsNRvnoFx3OdmTkL0uaoPrhy_8&disp=emb&realattid=19ea880db3a636476a21&zw
